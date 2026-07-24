@@ -1,6 +1,12 @@
 @import "tailwindcss";
 
 
+
+.nav_div{
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
 /* :root {
   --text: #6b6375;
   --text-h: #08060d;

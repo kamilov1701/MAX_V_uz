@@ -3,7 +3,7 @@ import Navlogo from "../assets/MAX_-_LOAN-logo.png";
 
 function Navbar() {
     return (
-        <nav className="flex items-center">
+        <nav className="container nav_div flex items-center">
             <img className="w-[120px]" src={Navlogo} alt="" />
             <div className="container nav_content">
                 <Link to="/">Home</Link> |{" "}
