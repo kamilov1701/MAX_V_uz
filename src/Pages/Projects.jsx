@@ -48,15 +48,15 @@ function Projects() {
               <img src={card1} alt="" />
               <div className="px-[24px] py-[23px]">
                 <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">Lumina App</h2>
-                    <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
+                <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
                   A holistic wellness ecosystem focusing on biometric
                   integration and AI-driven health optimization. Designed for
                   2.5M+ active users.
                 </p>
-                <span className="flex gap-[16px]"> 
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
+                <span className="flex gap-[16px]">
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
                 </span>
               </div>
             </div>
@@ -64,34 +64,34 @@ function Projects() {
               <img src={card2} alt="" />
               <div className="px-[24px] py-[23px]">
                 <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">Lumina App</h2>
-                    <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
+                <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
                   A holistic wellness ecosystem focusing on biometric
                   integration and AI-driven health optimization. Designed for
                   2.5M+ active users.
                 </p>
-                <span className="flex gap-[16px]"> 
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
+                <span className="flex gap-[16px]">
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
                 </span>
               </div>
             </div>
 
           </div>
           <div className="flex gap-[25px] mt-[24px]">
-             <div className="bg-[#111827B2] w-[389px]">
+            <div className="bg-[#111827B2] w-[389px]">
               <img src={card2} alt="" />
               <div className="px-[24px] py-[23px]">
                 <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">Lumina App</h2>
-                    <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
+                <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
                   A holistic wellness ecosystem focusing on biometric
                   integration and AI-driven health optimization. Designed for
                   2.5M+ active users.
                 </p>
-                <span className="flex gap-[16px]"> 
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
+                <span className="flex gap-[16px]">
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
                 </span>
               </div>
             </div>
@@ -99,19 +99,19 @@ function Projects() {
               <img src={card1} alt="" />
               <div className="px-[24px] py-[23px]">
                 <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">Lumina App</h2>
-                    <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
+                <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
                   A holistic wellness ecosystem focusing on biometric
                   integration and AI-driven health optimization. Designed for
                   2.5M+ active users.
                 </p>
-                <span className="flex gap-[16px]"> 
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
-                        <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
+                <span className="flex gap-[16px]">
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
                 </span>
               </div>
             </div>
-           
+
 
           </div>
         </section>
