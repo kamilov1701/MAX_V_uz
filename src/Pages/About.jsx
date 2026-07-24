@@ -1,39 +1,4 @@
-import { useState, useEffect } from "react";
-
-export default function About() {
-    const [experience, setExperience] = useState(0);
-    const [projects, setProjects] = useState(0);
-    const [clients, setClients] = useState(0);
-    const [tasks, setTasks] = useState(0);
-    const [support, setSupport] = useState(0);
-
-    useEffect(() => {
-        const duration = 1500; // 👈 Hamma animatsiya tezligi shu yerda
-        const interval = 16;
-
-        const animate = (end, setter) => {
-            let start = 1;
-            const increment = end / (duration / interval);
-
-            const timer = setInterval(() => {
-                start += increment;
-
-                if (start >= end) {
-                    setter(end);
-                    clearInterval(timer);
-                } else {
-                    setter(Math.floor(start));
-                }
-            }, interval);
-        };
-
-        animate(15, setExperience);
-        animate(50, setProjects);
-        animate(99.9, setClients);
-        animate(24, setTasks);
-        animate(7, setSupport);
-    }, []);
-
+function About() {
     return (
         <header>
             <div className="w-full h-[614px] bg-[#0F131D]">
@@ -59,3 +24,5 @@ export default function About() {
 
     );
 }
+
+export default About;
