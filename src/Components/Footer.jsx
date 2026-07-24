@@ -5,7 +5,7 @@ import Logo from "../assets/MAX_-_LOAN-logo.png";
 
 function Footer() {
     return (
-        <footer className="bg-[url(./src/assets/Footer_photo.png)] bg-cover bg-center w-full h-[200px]" >
+        <footer style={{ backgroundImage: `url(${BG_Footer})` }} className="bg-cover bg-center w-full h-[200px]" >
             <div className="flex justify-center items-center h-full">
                 <div className="flex">
                     <div>
