@@ -52,34 +52,10 @@ export default function About() {
                                 building the backbone of the next digital era through precision,
                                 speed, and luxury design.</p>
                         </div>
-                        div
                     </div> 
                 </div>
             </div>
         </header>
 
-
-            /* <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-        <div>
-          <h2 className="text-5xl font-bold">{experience}</h2>
-          <p>Years Experience</p>
-        </div>
-
-        <div>
-          <h2 className="text-5xl font-bold">{projects}+</h2>
-          <p>Projects</p>
-        </div>
-
-        <div>
-          <h2 className="text-5xl font-bold">{clients}%</h2>
-          <p>Happy Clients</p>
-        </div>
-
-        <div>
-          <h2 className="text-5xl font-bold">{tasks}/{support}</h2>
-          <p>Support</p>
-        </div>
-      </div>  */}
-        
     );
 }
