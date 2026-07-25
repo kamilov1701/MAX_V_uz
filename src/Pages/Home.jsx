@@ -4,6 +4,12 @@ import viteLogo from "../assets/vite.svg";
 import heroImg from "../assets/hero.png";
 import "../App.css";
 import HeaderLogo from "../assets/Header_BG.png";
+import Icon1 from "../assets/Icon1.png";
+import Icon2 from "../assets/Icon2.png";
+import Icon3 from "../assets/Icon3.png";
+import Icon4 from "../assets/Icon4.png";
+import Icon5 from "../assets/Icon5.png";
+import Icon6 from "../assets/Icon6.png";
 
 function Home() {
     const [count, setCount] = useState(0);
@@ -29,12 +35,70 @@ function Home() {
             <section>
                 <div className=" bg-[#111827]  ">
                     <div className="container">
-                        <div>
-                            <h1 className="">Specialized Services</h1>
-                            <p className="">We don't just build software; we engineer competitive advantages through
+                        <div className="w-[632px] flex flex-col gap-[15px] py-[80px]">
+                            <h1 className="text-[48px] text-[#ADC6FF] font-semibold">Specialized Services</h1>
+                            <p className="text-[#C2C6D6] text-[18px]">We don't just build software; we engineer competitive advantages through
                                 technological excellence and precise implementation.</p>
                         </div>
+                        <div>
+                            <div className="flex gap-[24px]">
+                                <div className="w-[389px] h-[258px] bg-[#111827] border border-[#1F2937] rounded-[12px] ">
+                                    <div className="w-[339px] px-[24px] pt-[24px] flex flex-col gap-[15px]">
+                                        <img className="w-[30px] h-[30px]" src={Icon1} alt="Icon1" />
+                                        <h3 className="text-[24px] text-[#DFE2F1] font-[500]">Web Platforms</h3>
+                                        <p className="text-[16px] text-[#C2C6D6] font-regular">Enterprise-grade web applications built with
+                                            React and Next.js, optimized for scale and
+                                            SEO.</p>
+                                    </div>
+                                </div>
+                                <div className="w-[389px] h-[258px] bg-[#111827] border border-[#1F2937] rounded-[12px] ">
+                                    <div className="w-[339px] px-[24px] pt-[24px] flex flex-col gap-[15px]">
+                                        <img className="w-[22.5px] h-[30px]" src={Icon2} alt="Icon2" />
+                                        <h3 className="text-[24px] text-[#DFE2F1] font-[500]">Mobile Native</h3>
+                                        <p className="text-[16px] text-[#C2C6D6] font-regular">High-performance iOS and Android apps
+                                            using Flutter and Swift for seamless cross-
+                                            platform experiences.</p>
+                                    </div>
+                                </div>
+                                <div className="w-[389px] h-[258px] bg-[#111827] border border-[#1F2937] rounded-[12px] ">
+                                    <div className="w-[339px] px-[24px] pt-[24px] flex flex-col gap-[15px]">
+                                        <img className="w-[30px] h-[30px]" src={Icon3} alt="Icon3" />
+                                        <h3 className="text-[24px] text-[#DFE2F1] font-[500]">UI/UX Design</h3>
+                                        <p className="text-[16px] text-[#C2C6D6] font-regular">Futuristic, user-centric designs focused on
+                                            conversion and technical precision.</p>
+                                    </div>
+                                </div>
+                            </div>
 
+
+                            <div className="flex gap-[24px] mt-[31px]">
+                                <div className="w-[389px] h-[258px] bg-[#111827] border border-[#1F2937] rounded-[12px] ">
+                                    <div className="w-[339px] px-[24px] pt-[24px] flex flex-col gap-[15px]">
+                                        <img className="w-[27px] h-[28.5px]" src={Icon4} alt="Icon4" />
+                                        <h3 className="text-[24px] text-[#DFE2F1] font-[500]">Backend Architecture</h3>
+                                        <p className="text-[16px] text-[#C2C6D6] font-regular">Robust, secure, and distributed systems
+                                            built with Go, Python, and Node.js.</p>
+                                    </div>
+                                </div>
+                                <div className="w-[389px] h-[258px] bg-[#111827] border border-[#1F2937] rounded-[12px] ">
+                                    <div className="w-[339px] px-[24px] pt-[24px] flex flex-col gap-[15px]">
+                                        <img className="w-[28.5px] h-[30px]" src={Icon5} alt="Icon5" />
+                                        <h3 className="text-[24px] text-[#DFE2F1] font-[500]">AI Integration</h3>
+                                        <p className="text-[16px] text-[#C2C6D6] font-regular">Empowering businesses with LLM custom
+                                            agents, computer vision, and predictive
+                                            analytics.</p>
+                                    </div>
+                                </div>
+                                <div className="w-[389px] h-[258px] bg-[#111827] border border-[#1F2937] rounded-[12px] ">
+                                    <div className="w-[339px] px-[24px] pt-[24px] flex flex-col gap-[15px]">
+                                        <img className="w-[33px] h-[24px]" src={Icon6} alt="Icon6" />
+                                        <h3 className="text-[24px] text-[#DFE2F1] font-[500]">Cloud DevOps</h3>
+                                        <p className="text-[16px] text-[#C2C6D6] font-regular">Automated deployments and zero-downtime
+                                            infrastructure on AWS and GCP.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
