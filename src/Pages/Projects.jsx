@@ -52,6 +52,7 @@ function Projects() {
                 <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">
                   Lumina App
                 </h2>
+                <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">Lumina App</h2>
                 <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
                   A holistic wellness ecosystem focusing on biometric
                   integration and AI-driven health optimization. Designed for
@@ -67,6 +68,9 @@ function Projects() {
                   <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">
                     AWS
                   </p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
                 </span>
               </div>
             </div>
@@ -76,6 +80,7 @@ function Projects() {
                 <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">
                   Lumina App
                 </h2>
+                <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">Lumina App</h2>
                 <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
                   A holistic wellness ecosystem focusing on biometric
                   integration and AI-driven health optimization. Designed for
@@ -91,6 +96,9 @@ function Projects() {
                   <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">
                     AWS
                   </p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
                 </span>
               </div>
             </div>
@@ -102,6 +110,7 @@ function Projects() {
                 <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">
                   Lumina App
                 </h2>
+                <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">Lumina App</h2>
                 <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
                   A holistic wellness ecosystem focusing on biometric
                   integration and AI-driven health optimization. Designed for
@@ -117,6 +126,9 @@ function Projects() {
                   <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">
                     AWS
                   </p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
                 </span>
               </div>
             </div>
@@ -126,6 +138,7 @@ function Projects() {
                 <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">
                   Lumina App
                 </h2>
+                <h2 className="text-[#DFE2F1] text-[24px] font-medium mb-[8px]">Lumina App</h2>
                 <p className="text-[#C2C6D6] text-[16px] font-normal mb-[24px]">
                   A holistic wellness ecosystem focusing on biometric
                   integration and AI-driven health optimization. Designed for
@@ -313,7 +326,15 @@ function Projects() {
               </div>
             </div>
            
-           
+{/*            
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[97px] rounded-[4px]">React Native</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[72px] rounded-[4px]">GraphQL</p>
+                  <p className="text-[#C2C6D6] text-[14px] font-normal bg-[#262A35] px-[8px] py-[4px] w-[45px] rounded-[4px]">AWS</p>
+                </span>
+              </div>
+            </div> */}
+
+
           </div>
         </section>
       </main>
